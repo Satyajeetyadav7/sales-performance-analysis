@@ -1,0 +1,7 @@
+segment,customers,avg_recency,avg_orders,revenue,revenue_share_%
+Champions,387,22.1,9.2,223867.3,56.5
+Loyal,213,113.7,5.8,77557.9,19.6
+Needs Attention,276,64.0,2.0,36938.6,9.3
+Lost,376,235.0,1.1,27489.2,6.9
+At Risk,131,193.9,2.2,19911.2,5.0
+New / Promising,117,29.6,1.4,10808.2,2.7
